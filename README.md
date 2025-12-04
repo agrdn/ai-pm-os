@@ -54,7 +54,7 @@ After a few weeks, you have:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/ai-pm-os.git
+git clone https://github.com/agrdn/ai-pm-os.git
 
 # Or download ZIP and extract to your Obsidian vault
 ```
