@@ -1,0 +1,18 @@
+# Obsidian
+.obsidian/
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Personal notes (uncomment if you want to keep some notes private)
+# Raw notes/*.md
+# !Raw notes/_TEMPLATE.md
+
